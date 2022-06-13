@@ -1,0 +1,11 @@
+body {
+     background: linear-gradient(to top left, #ffcccc 0%, #ccccff 100%);
+     text-align: center;
+}
+
+#button{
+    font-family: 'Lobster', cursive;
+    background-color: peachpuff;
+    size: 50px;
+    margin-top: 500px;
+}
